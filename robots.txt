@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://poirotZhu.com/sitemap.xml 
